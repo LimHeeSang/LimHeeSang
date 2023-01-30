@@ -16,13 +16,8 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white)
 
 #
-### Github stats ✨
-![LimHeeSang's GitHub stats](https://github-readme-stats.vercel.app/api?username=LimHeeSang&count_private=true&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LimHeeSang&layout=compact&theme=tokyonight)
-
-#
-### Boj stats ✨
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlagmltkd12)](https://solved.ac/dlagmltkd12/)
-
+### Github & Boj stats ✨
+![LimHeeSang's GitHub stats](https://github-readme-stats.vercel.app/api?username=LimHeeSang&count_private=true&show_icons=true&theme=tokyonight) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlagmltkd12)](https://solved.ac/dlagmltkd12/)
 
 
 <!--
