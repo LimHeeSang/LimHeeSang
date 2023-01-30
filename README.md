@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-
+#
 ### Tech Stack 💻
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
@@ -15,9 +15,14 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white)
 
+#
+### Github stats ✨
+![LimHeeSang's GitHub stats](https://github-readme-stats.vercel.app/api?username=LimHeeSang&count_private=true&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LimHeeSang&layout=compact&theme=tokyonight)
 
+#
+### Boj stats ✨
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlagmltkd12)](https://solved.ac/dlagmltkd12/)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLimHeeSang&count_bg=%2343B7ED&title_bg=%2310409A&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 <!--
